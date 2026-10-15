@@ -1,0 +1,10 @@
+# 实验产物可以由main.py重新生成；原始data/*.csv是复现输入，应纳入仓库。
+outputs/
+__pycache__/
+*.py[cod]
+.venv*/
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+*.log
